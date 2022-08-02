@@ -1,3 +1,7 @@
+<img src="https://github.com/JuaoSA/JuaoSA/blob/main/Group%20111.png" alt="Hero image">
+
+
+
 ### Hello, I'm João
 
 
