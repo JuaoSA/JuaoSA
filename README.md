@@ -23,4 +23,10 @@
   <a href = "jaosantosandrade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
+### :lock_with_ink_pen: 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
+Name | Description | Status | Link
+-----|-------------|--------|------
+NONE | NONE | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link]()
+NONE | NONE | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link]()
+
+<br />
