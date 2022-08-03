@@ -1,22 +1,46 @@
 <img src="https://github.com/JuaoSA/JuaoSA/blob/main/Group%20111.png" alt="Hero image">
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=OL%C3%81%2C+MEU+NOME+E+JO%C3%83O+PAULO+;BEM+VINDO+AO+MEU+REPOSITORIO)](https://git.io/typing-svg)
 
-### Hello, I'm João
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 
-- 🔭 Passionate about technology.
-- 🎓  Systems analysis and development. 
-- 🌱 Master's student in applied computing. 
-<div align="center">
-  <a href="https://github.com/davidluiz91">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuaoSA&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaoSA&layout=compact&langs_count=7&theme=swift"/>
+
+### Learned  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://www.svgrepo.com/show/341068/sql.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 </div>
- 
 
-##
+</td><td valign="top" width="33%">
+
+
+
+### Learning  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://www.svgrepo.com/show/354127/numpy.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://www.svgrepo.com/show/317043/panda.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+</div>
+
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+
 
 <div> 
   
