@@ -31,6 +31,5 @@ Tipo | Descrição | Status | Link
 𝙿𝚛𝚘𝚓𝚎𝚝𝚘 𝚖𝚎𝚜𝚝𝚛𝚊𝚍𝚘 | Integração de dados de covid usando ontologia PT1  | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link]()
 𝙿𝚛𝚘𝚓𝚎𝚝𝚘 𝚖𝚎𝚜𝚝𝚛𝚊𝚍𝚘 | Dashboard dados de covid PT2  | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link]()  
 𝔻𝕖𝕤𝕒𝕗𝕚𝕠  | Desafio para vaga Desenvolvedor de FrontEnd no Grupo AgroCP  | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/JsantosAn/Teste-Programador-FrontEnd)
-𝔻𝕖𝕤𝕒𝕗𝕚𝕠  | Desafio para vaga Desenvolvedor de FrontEnd no Grupo AgroCP  | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/JsantosAn/Teste-Programador-FrontEnd)
 𝔻𝕖𝕤𝕒𝕗𝕚𝕠  | Desafio para vaga Desenvolvedor de FrontEnd no Grupo AgroCP  | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/JsantosAn/Desafio-FrontEnd-2021)
 <br />
